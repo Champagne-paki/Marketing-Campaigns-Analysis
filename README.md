@@ -1,7 +1,7 @@
 
 ## 📊 Marketing Campaign and Sales Analysis
 
-This project explores how different **marketing strategies** and **sales visit patterns** impact overall sales performance, using **Amount Collected** as the primary indicator of success.
+This project explores how different **marketing strategies** and **sales visit patterns** impact overall sales performance, using the **Amount Collected** from clients as the primary indicator of success.
 
 ### 🔍 Key Questions
 
